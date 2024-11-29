@@ -1,4 +1,4 @@
-**Sentiment Analysis on Twitter Data Using Machine Learning**
+# Sentiment Analysis on Twitter Data Using Machine Learning
 
 This repository contains the code, data, and methodologies used for sentiment analysis on Twitter data. The project focuses on classifying tweets into positive, negative, or neutral sentiments using machine learning and natural language processing (NLP) techniques.
 
